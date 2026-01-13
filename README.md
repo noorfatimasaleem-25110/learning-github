@@ -1,5 +1,3 @@
-
-
 # Learning GitHub
 
 Hello 👋  
